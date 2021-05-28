@@ -19843,7 +19843,7 @@ M104 S0
 ;SETTING_3 ype = draft\\nsetting_version = 16\\n\\n[values]\\nadhesion_type = sk
 ;SETTING_3 irt\\nlayer_height_0 = 0.2\\n\\n", "extruder_quality": ["[general]\\n
 ;SETTING_3 version = 4\\nname = Draft #2\\ndefinition = flsun_qq\\n\\n[metadata]
-;SETTING_3 \\ntype = quality_changes\\nquality_type = draft\\nsetting_version = 
+;SETTING_3 \\ntype = quality_changes\\nquality_type = draft\\nsetting_version =
 ;SETTING_3 16\\nposition = 0\\n\\n[values]\\nbottom_layers = 3\\ninfill_angles =
 ;SETTING_3  \\ninfill_pattern = lines\\ninitial_layer_line_width_factor = 100\\n
 ;SETTING_3 line_width = 0.6\\noptimize_wall_printing_order = True\\nretraction_h

@@ -10,7 +10,7 @@
 ;MAXZ:3.6
 ;POSTPROCESSED
 ;Generated with Cura_SteamEngine 4.8.0
-M140 S50
+M140 S60
 M105
 M190 S50
 M104 S195
@@ -29628,7 +29628,7 @@ M104 S0
 ;SETTING_3 sion = 16\\ntype = quality_changes\\n\\n[values]\\nadhesion_type = sk
 ;SETTING_3 irt\\nlayer_height_0 = 0.2\\n\\n", "extruder_quality": ["[general]\\n
 ;SETTING_3 version = 4\\nname = Draft #2\\ndefinition = flsun_qq\\n\\n[metadata]
-;SETTING_3 \\nquality_type = draft\\nposition = 0\\nsetting_version = 16\\ntype 
+;SETTING_3 \\nquality_type = draft\\nposition = 0\\nsetting_version = 16\\ntype
 ;SETTING_3 = quality_changes\\n\\n[values]\\nbottom_layers = 3\\ninfill_angles =
 ;SETTING_3  [90,0]\\ninfill_line_distance = 4\\ninfill_pattern = lines\\ninitial
 ;SETTING_3 _layer_line_width_factor = 100\\nline_width = 0.6\\noptimize_wall_pri

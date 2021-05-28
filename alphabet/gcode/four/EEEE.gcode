@@ -10,7 +10,7 @@
 ;MAXZ:3.6
 ;POSTPROCESSED
 ;Generated with Cura_SteamEngine 4.8.0
-M140 S50
+M140 S60
 M105
 M190 S50
 M104 S195
